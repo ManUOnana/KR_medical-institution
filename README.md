@@ -28,20 +28,13 @@
 
 - **맵 차트**: 각 지역에 위치한 보건의료기관을 지도 위에 표시
 - **필터 기능**: 지역을 선택하면 해당 지역의 보건의료기관만 필터링하여 보여줌
-- **상호작용**: 보건의료기관에 마우스를 올리면 기관명, 주소, 전화번호를 확인할 수 있음
 
-## 설치 및 실행 방법
+## 실행 방법
 
-1. **Python 환경 설정**:
-    - 필요한 라이브러리 설치:
-    ```bash
-    pip install pandas matplotlib seaborn
-    ```
-
-2. **Tableau 대시보드**:
+1. **Tableau 대시보드**:
     - 대시보드는 [Tableau Public](https://public.tableau.com/)에 게시되어 있으며, [대시보드 링크](https://public.tableau.com/shared/C9B6H67JM?:display_count=n&:origin=viz_share_link)에서 확인할 수 있습니다.
 
-3. **데이터 다운로드**:
+2. **데이터 다운로드**:
     - 데이터를 [공공 데이터 포털](https://www.data.go.kr/)에서 다운로드하거나 로컬 환경에 저장하여 사용합니다.
 
 ## 데이터 출처
